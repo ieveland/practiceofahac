@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+	system("color e5");
+	printf("%.10f",14.64363478567983);
+	int a,b,c;	
+	scanf("%d%d";a,b);
+	t=a;
+	a=b;
+	b=t;
+	printf("%d %d");
+	return 0;
+}
